@@ -8,6 +8,7 @@ body {
     margin: 0px;
     box-sizing: border-box;
     scroll-behavior: smooth;  
+    max-width: 100%;
   }
   
   ::-webkit-scrollbar {
